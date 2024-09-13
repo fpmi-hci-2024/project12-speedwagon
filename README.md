@@ -1,5 +1,5 @@
-# SpeedWagon
-## Description
+# Проект SpeedWagon
+## Описание
 Веб и мобильное приложения заказа электронных билетов минских автовокзалов. Функционал, который будет реализован: 
 * покупка билета;
 * поиск рейса по нескольким параметрам;
@@ -9,13 +9,13 @@
 * добавление нового автовокзала;
 * просмотр и обработка заказов пассажиров;
 * регистрация нового пассажира.
-## Installation
-## Sub modules
+## Установка
+## Другие репозитории
 * [Веб клиент](https://github.com/fpmi-hci-2024/project12a-web-speedwagon)
 * [Клиент мобильного приложения](https://github.com/fpmi-hci-2024/project12a-mobile-speedwagon)
 * [Backend](https://github.com/fpmi-hci-2024/project12a-backend-speedwagon)
-## Usage
-## Contributing
+## Использование
+## Контрибьютеры
 * [Костецкий Павел](https://github.com/Overwees)
 * [Гулин Егор](https://github.com/Egorishche7)
 * [Дёмин Владимир](https://github.com/VladimirDemin)
